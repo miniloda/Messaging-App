@@ -2,4 +2,4 @@
 applications:
  - name: Messaging-App
    random-route: false
-   memory: 256M
+   memory: 1024M
